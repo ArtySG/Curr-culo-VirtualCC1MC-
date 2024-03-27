@@ -1,0 +1,28 @@
+* {
+    text-align: center;
+    font-style: oblique;
+    text-size-adjust: 41px;
+
+    background-color: azure;
+    animation: 5s infinite;
+}
+
+h1 {
+    border: 3px solid black;
+    font-size: 70px;
+    text-align: center;
+
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+p,
+li {
+    font-size: 20px;
+}
